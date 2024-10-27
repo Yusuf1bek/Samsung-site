@@ -1,0 +1,65 @@
+.mySwiper{
+    height: 500px;
+}
+.hero-wrapper{
+    padding-top: 50px;
+    padding-bottom: 60px;
+    padding-left: 120px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    background-color: #F3F3F3;
+}
+.hero-content{
+    width: 445px;
+}
+.hero-title{
+    font-size: 40px;
+    line-height: 50px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.hero-content p{
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+.btn-more{
+    width: 70px;
+    background-color: transparent;
+    color: black;
+    border: none;
+    cursor: pointer;
+    border-bottom: 1px solid black;
+    margin-right: 35px;
+}
+.btn-shop{
+    width: 100px;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 5px 0;
+    transition: all 0.3s ease;
+}
+.btn-shop:hover{
+    background-color: #fff;
+    color: black;
+    cursor: pointer;
+}
+.btn-buy{
+    width: 100px;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 5px 0;
+    transition: all 0.3s ease;
+}
+.btn-buy:hover{
+    background-color: #fff;
+    color: black;
+    cursor: pointer;
+}
